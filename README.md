@@ -1,5 +1,9 @@
 # Docker Desktop for Linux
 
+> [!NOTE]
+> This repository is being sunset in favor of [desktop-feedback](http://dockr.ly/desktop-feedback).  
+> Existing issues will remain here but will be moved to the new repository as they are updated.
+
 ### Getting Docker Desktop for Linux
 
 Docker Desktop for Linux is free to [download](https://docs.docker.com/desktop/install/linux-install/).
